@@ -30,7 +30,7 @@ class Coba {
 	public $kelas = __CLASS__;
 }
 
-$obj = new Coba;
+$obj = new Coba; 
 echo $obj->kelas;
 
 
